@@ -10,9 +10,6 @@ O repositório está estruturado da seguinte forma:
 Categoria: As soluções são organizadas por categorias, como estruturas de dados, algoritmos, matemática, entre outras.
 
 
-Subcategoria: Dentro de cada categoria, os problemas são agrupados por subcategorias específicas.
-
-
 Número do Problema: Cada pasta de subcategoria contém as soluções numeradas pelos códigos dos problemas na BeeCrowd.
 
 
